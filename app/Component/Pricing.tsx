@@ -81,7 +81,7 @@ export default function Pricing() {
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
                   </span>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 </p>
                 <button className="flex items-center mt-auto text-black bg-blue-600 border-0 py-2 px-4 w-full focus:outline-none hover:bg-blue-800 rounded">
                   Button
